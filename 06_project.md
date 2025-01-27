@@ -2,7 +2,7 @@
 It identifies the key pressed by you in the keyboard and also displays the keycode and code for that key
 
 ## Here is the HTML and JS part
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,7 +45,7 @@ It identifies the key pressed by you in the keyboard and also displays the keyco
 ```
 
 ## CSS part goes here
-```
+```css
 h2{
     text-align: center;
     font-style: italic;
