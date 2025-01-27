@@ -3,7 +3,7 @@
 When you start then the color will start changing randomly after every 1 second and if you hit the stop button then the background color changing will be stopped
 ## Here is the whole code using HTML, CSS, JS
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
